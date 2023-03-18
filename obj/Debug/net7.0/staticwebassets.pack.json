@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ProyGeneradorC.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\wwwroot\\Images\\molina.png",
+      "PackagePath": "staticwebassets\\Images\\molina.png"
+    },
+    {
       "Id": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
