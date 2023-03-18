@@ -5,6 +5,9 @@
 <ul class="navbar-nav">
 @if (SignInManager.IsSignedIn(User))
 {
+    IdentityUser myidentity = await Task.Run(() => UserManager.GetUserAsync(User));
+    var roles = await Task.Run(() => UserManager.GetRolesAsync(myidentity));
+
     <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Hola @User.Identity?.Name!
@@ -20,6 +23,26 @@
             </li>
         </ul>
     </li>
+
+    @if(roles.Contains("Admin")){
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Administrar
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li class="nav-item">
+                <a class="nav-link text-dark bi bi-cart" asp-area="" asp-controller="Producto" asp-action="Index">Eventos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark bi bi-cart" asp-area="" asp-controller="Pago" asp-action="Index">Personas</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark bi bi-cart" asp-area="" asp-controller="Contacto" asp-action="Consultas">Certificados</a>
+            </li>
+          </ul>
+        </li>
+    }
+   
 }
 
 else
