@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/A77qYc93PzUBzfNFVwKNJ5F7agjozhVv7bz0CNQSp52+Pz8YNJZb3xdLEI66LODnnIKk0sT82+iguv5l4u+KQ==",
+  "dgSpecHash": "ey8o18DTlTFWGtDSRz4odbi9nycnXkX+B5JL84eTUzkBsNvCf6zPRZwyDUhT8vAvK3ufmYRWhQe+TAKC2EUDHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\ProyGeneradorC.csproj",
+  "projectFilePath": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\awssdk.core\\3.7.105.16\\awssdk.core.3.7.105.16.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\awssdk.rds\\3.7.114.35\\awssdk.rds.3.7.114.35.nupkg.sha512",
@@ -198,7 +198,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "ProyGeneradorC depende de Npgsql.EntityFrameworkCore.PostgreSQL (>= 7.0.2), pero no se encontró Npgsql.EntityFrameworkCore.PostgreSQL 7.0.2. Se resolvió una mejor coincidencia aproximada de Npgsql.EntityFrameworkCore.PostgreSQL 7.0.3.",
+      "message": "ProyGeneradorC depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 7.0.2) but Npgsql.EntityFrameworkCore.PostgreSQL 7.0.2 was not found. An approximate best match of Npgsql.EntityFrameworkCore.PostgreSQL 7.0.3 was resolved.",
       "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
       "targetGraphs": [
         "net7.0"

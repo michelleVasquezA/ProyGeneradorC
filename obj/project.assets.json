@@ -10777,11 +10777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\ProyGeneradorC.csproj",
+      "projectUniqueName": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
       "projectName": "ProyGeneradorC",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\ProyGeneradorC.csproj",
+      "projectPath": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\obj\\",
+      "outputPath": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -10869,7 +10869,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "ProyGeneradorC depende de Npgsql.EntityFrameworkCore.PostgreSQL (>= 7.0.2), pero no se encontró Npgsql.EntityFrameworkCore.PostgreSQL 7.0.2. Se resolvió una mejor coincidencia aproximada de Npgsql.EntityFrameworkCore.PostgreSQL 7.0.3.",
+      "message": "ProyGeneradorC depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 7.0.2) but Npgsql.EntityFrameworkCore.PostgreSQL 7.0.2 was not found. An approximate best match of Npgsql.EntityFrameworkCore.PostgreSQL 7.0.3 was resolved.",
       "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
       "targetGraphs": [
         "net7.0"

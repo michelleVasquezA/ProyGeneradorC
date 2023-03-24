@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\ProyGeneradorC.csproj": {}
+    "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\ProyGeneradorC.csproj": {
+    "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\ProyGeneradorC.csproj",
+        "projectUniqueName": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
         "projectName": "ProyGeneradorC",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\ProyGeneradorC.csproj",
+        "projectPath": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Proy_Sof2\\ProyGeneradorC\\obj\\",
+        "outputPath": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
