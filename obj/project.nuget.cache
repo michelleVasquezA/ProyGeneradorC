@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ey8o18DTlTFWGtDSRz4odbi9nycnXkX+B5JL84eTUzkBsNvCf6zPRZwyDUhT8vAvK3ufmYRWhQe+TAKC2EUDHw==",
+  "dgSpecHash": "nEbiGhJHX1zfx0xbwbifFsSgyZMpbAJfGmwejr6OFGjQTHNXAtX4rg3YooNOPilExu7+5SfKBE1JBlx0yNHCcg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\awssdk.core\\3.7.105.16\\awssdk.core.3.7.105.16.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\awssdk.rds\\3.7.114.35\\awssdk.rds.3.7.114.35.nupkg.sha512",
@@ -193,16 +193,5 @@
     "C:\\Users\\Asus\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "ProyGeneradorC depends on Npgsql.EntityFrameworkCore.PostgreSQL (>= 7.0.2) but Npgsql.EntityFrameworkCore.PostgreSQL 7.0.2 was not found. An approximate best match of Npgsql.EntityFrameworkCore.PostgreSQL 7.0.3 was resolved.",
-      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

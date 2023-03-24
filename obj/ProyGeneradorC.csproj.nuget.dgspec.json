@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
         "projectName": "ProyGeneradorC",
-        "projectPath": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\ProyGeneradorC.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Software_2\\ProyGeneradorC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -68,7 +68,7 @@
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[7.0.2, )"
+              "version": "[7.0.3, )"
             }
           },
           "imports": [
